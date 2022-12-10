@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Git-Wiki-React/static/js/main.bd0ad187.js",
+    "static/media/github.png": "/Git-Wiki-React/static/media/github.4d74fd76ac168df7723c.png",
+    "static/media/excluir.png": "/Git-Wiki-React/static/media/excluir.0fefe06392c7446322ae.png",
+    "static/media/search.png": "/Git-Wiki-React/static/media/search.8237a90549c294ac69d7.png",
+    "index.html": "/Git-Wiki-React/index.html",
+    "main.bd0ad187.js.map": "/Git-Wiki-React/static/js/main.bd0ad187.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bd0ad187.js"
+  ]
+}
